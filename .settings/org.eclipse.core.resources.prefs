@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/xuliugen/frame/http/BaseHttpClient.java=UTF-8
+encoding//src/com/xuliugen/frame/http/BaseHttpRequestRetryHandler.java=UTF-8
+encoding//src/com/xuliugen/frame/util/JSONUtil.java=UTF-8
+encoding/<project>=UTF-8
+separateDerivedEncodings=true
